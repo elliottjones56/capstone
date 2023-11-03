@@ -1,0 +1,214 @@
+name,code,cost,supertype,cardtype,subtype,rarity,rulestext,flavourtext,power,toughness,artist,art_url,image_url,frame,active
+
+"Domie Wells","","2w","","Instant","","none","Counter target spell unless its controller pays {2}.","","","","","","","White",""
+
+"Kaunter&#39;s Animora","","2ww","","Creature","Human Cleric","none","{2}{W}, {T}: Look at the top card of your library. If it&#39;s a creature card, you may put it onto the battlefield.","","1","4","","","","White",""
+
+"Nedicated Crusader","","1w","","Creature","Human Cleric","none","Fading 4 (This creature enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&#39;t, sacrifice it.)
+Remove a fade counter from Nedicated Crusader: Put a 1/1 green Squirrel creature token onto the battlefield.","","2","2","","","","White",""
+
+"Sohenata of the Fireborn","","3w","","Creature","Bird","none","Bloodthirst 2 (If an opponent was dealt damage this turn, this permanent enters the battlefield with 2 +1/+1 counters on it.)
+{R}: Sohenata of the Fireborn gains flying until end of turn.","","3","3","","","","White",""
+
+"Sundiser Grop","","4w","","Creature","Elf Shaman","none","Righthaste
+Until end of turn.","","2","2","","","","White",""
+
+"Task the Dead","","ww","Legendary","Creature","Human Soldier","none","First strike
+When Task the Dead enters the battlefield, if you control a black or a blue permanent, you may draw a card","","2","2","","","","White",""
+
+"Teferi&#39;s Curse","","1w","","Enchantment","","none","At the beginning of each player&#39;s upkeep, that player gains 5 life.","","","","","","","White",""
+
+"Tide of Flows","","1w","","Enchantment","","none","{2}: Add {b} to your mana pool.
+{t}: Add {g} or {w} to your mana pool.","","","","","","","White",""
+
+"Tower Marshal","","2w","","Creature","Human Warrior","none","Whenever Tower Marshal deals combat damage to a player, put two 2/2 black Zombie creature tokens onto the battlefield.","","","","","","","White",""
+
+"Vorteach","","1w","","Sorcery","","none","Put a 6/5 blue Mountain card from your graveyard to the battlefield with a +1/+1 counter on it.","","","","","","","White",""
+
+"Ancient Purator","","2u","","Creature","Merfolk Soldier","none","{u}, {t}: Target creature you control gains protection from the color of your choice until end of turn. 
+{r}, {t}: Ancient Purator deals 1 damage to target creature or player.","","1","1","","","","Blue",""
+
+"Angel Desire","","u","","Creature","Bat Wizard","none","When Angel Desire enters the battlefield, if you have 10 or less life, put two 1/1 green Cat Cleric creature tokens onto the battlefield under your control.","","1","1","","","","Blue",""
+
+"Canderous Spark","","u","","Instant","","none","Counter target activated ability. Its controller loses 7 life.
+Cycling {5} ({5}, Discard this card: Draw a card.)","","","","","","","Blue",""
+
+"Creature","","1u","","Sorcery","","none","Destroy target artifact.","","","","","","","Blue",""
+
+"Dream Communcaid","","3uu","","Sorcery","","none","Target player exiles sources if it&#39;s a land type.","","","","","","","Blue",""
+
+"Exgo the Rickers","","2uu","Legendary","Creature","Dragon","none","Horshers (Whenever you cast a creature is put into a graveyard, it deals 6 damage to target creature or player this turn. Activate this ability only if it can block any number of creatures that share a color to your mana pool for each artifact.)","","","","","","","Blue",""
+
+"Flame Pack","","2uu","","Instant","","none","Counter target spell that targets a creature.
+Cycling {3}{G}
+When you cycle Flame Pack, untap all creatures you control.","","","","","","","Blue",""
+
+"Fludor&#39;s Flatrest","","{32}{u}","","Sorcery","","none","Target attacking creature gets +1/+1.
+You gain 1 life","","","","","","","Blue",""
+
+"Fortigang Tramber","","4uu","","Enchantment.","","none","Tap an untapped white creature you control: put a +1/+1 counter on target creature.","","","","","","","Blue",""
+
+"Glast Vonger","","uu","","Creature","Shapeshifter","none","{t}: Destroy target creature with lifelink until end of turn.","","2","2","","","","Blue",""
+
+"Niv Mizzet, Vampire Cops","","4u","Legendary","Creautre","All Creature Plains","none","Flying
+Niv Mizzet, Vampire Cops can&#39;t be blocked.","","4","5","","","","Blue",""
+
+"Stand","","uu","Legendary","Creature","Homunculus","none","Stand doesn&#39;t untap during your untap step.
+At the beginning of your upkeep, you may put a +1/+1 counter on Stand.","","1","6","","","","Blue",""
+
+"Sunbrash Trumpeter","","4u","","Creature","Shapeshifter","none","Changeling
+Flying
+Haste
+When Sunbrash Trumpeter enters the battlefield, Scry 1","","2","4","","","","Blue",""
+
+"Uppresting Aser","","4u","Legendary","Creature","Human Wizard","none","Flying
+Whenever Uppresting Aser becomes blocked by a creature, you may play the exiled card from the top of your library until you reveal your devotion to it. Destroy target land.","","2","2","","","","Blue",""
+
+"Waster of the Did2","","u","","Creature","Centaur Elephant Warrior","none","Flying","","2","2","","","","Blue",""
+
+"Blind Hell","","1b","","Creature","Goblin Rogue","none","Flying
+When Blind Hell enters the battlefield, if you discard an artifact from your graveyard, Blind Hell deals 3 damage to each player.","","1","1","","","","Black",""
+
+"Goblin Scrawser","","1b","","Creature","King Soldier","none","Shanform (For more +1/+1 counters on Goblin Scrawser, you may pay {2}{U}. If you do, discard this card. If that creature deals combat damage to a creature is put in a divinitacter in poison counters on it.)","","2","2","","","","Black",""
+
+"Hartify","","1bbbbb","","Enchantment","","none","Sacrifice a creature: Target player draws a card and loses 1 life.","","","","","","","Black",""
+
+"Nightsuse","","3b","","Creature","Beast","none","{r}, Discard a card: Draw a card.","","5","4","","","","Black",""
+
+"Desert Wooder","","r","","Creature","Cat","none","Bird creatures have haste","","1","1","","","","Red",""
+
+"Erpt Fird","","3r","","Creature","Human Rogue","none","Whenever you cast a spell, it gains birdstruck until end of turn.","","3","2","","","","Red",""
+
+"Fallather Drudes","","2rr","","Artifact Creature","Human Warrior","none","Creatures that creature with banding you control with Fallather Drudes until end of turn. 
+Whenever equipped creature&#39;s power and times you control can&#39;t be blocked except by creatures that&#39;s a coin. Dwarf it. It has &quot;&quot;{t}: Add {g} to your mana pool.&quot;&quot;","","2","1","","","","Red",""
+
+"Forefad Chtisc","","1r","","Creature","Horror","none","Grout creatures you control gets +2/+2 and has first strike.
+{3}{u}: Counter target creature with converted mana cost.","","5","4","","","","Red",""
+
+"Goblin Defiance","","2r","","Enchantment","","none","At the beginning of each player&#39;s upkeep, Goblin Defiance deals damage to that player equal to the number of cards in his or her graveyard.","","","","","","","Red",""
+
+"Horrorlith","","R","","Sorcery","","none","Target player discards a card at random.","","","","","","","Red",""
+
+"Infrection","","1r","","Sorcery","","none","Infrection deals 1 damage to target creature. That creature deals damage equal to its power to target creature or player.","","","","","","","Red",""
+
+"Ingerirk Cefyrak","","1r","","Creature","Daman Warrior","none","As Ingerirk Cefyrak enters the battlefield, look at a +1/+1 counter on it, remove a charge counter from Ingerirk Cefyrak.
+Until end of turn, you may shuffle your library. If you do, you may put a +1/+1 counter on Ingerirk Cefyrak.","","2","2","","","","Red",""
+
+"Kiughtal Srow","","3rr","","Creature","Zombie Mand","none","When Kiughtal Srow enters the battlefield, you may have target attacking creature. Only activate this ability if it&#39;s a creature named Shidi Hughtor.","","","","","","","Red",""
+
+"Maelstrom Dragon","","2r","","Creature","Dragon","none","Flying
+At the beginning of your upkeep, put a +1/+1 counter on Maelstrom Dragon.","","2","2","","","","Red",""
+
+"Mennage the Garxles","","2rrr","","Creature","Elemental Spellshaper","none","Whenever Mennage the Garxles deals combat damage to a player, return three cards in your graveyard for its flashback cost. Then tap target creature or player.","","3","3","","","","Red",""
+
+"Omberceptic Thrull","","3r","","Creature","Kor Shaman","none","{G}{U}, {T}: Destroy target creature.","","1","3","","","","Red",""
+
+"Sandstone Hand","","4r","","Instant","","none","Sandstone Hand deals 1 damage to each creature.
+Prevent the next 1 damage that would be dealt to target creature this turn.
+Draw a card.","","","","","","","Red",""
+
+"Sink Burdy","","3rr","","Sorcery","","none","Destroy target enchantment.
+When Sink Burdy leaves the battlefield, put a 2/2 green Bird creature token onto the battlefield.
+[-8] You get an emblem with &quot;&quot;Morph 3.&quot;&quot;","","","","","","","Red",""
+
+"Squee&#39;s Grounds","","1r","","Enchantment","","none","Whenever a player casts a creature spell, you may put a 1/1 colorless Myr artifact creature token onto the battlefield.","","","","","","","Red",""
+
+"Callhattow Loxosg","","3g","","Creature","Dragon","none","Whenever Callhattow Loxosg attacks, look at up to three cards in your library.","","5","3","","","","Green",""
+
+"Criquain Brimutyon","","2g","","Creature","Human Barbarian Insect","none","All Sliver creaturs may pay 1 life, where X is the number of poison counters on it.
+*Landfal* - When Criquain Brimutyon enters the battlefield, return target permanent to its owner&#39;s hand.","","","","","","","Green",""
+
+"Croll of the Flight","","1g","Legendary","Creature","Human Soldier","none","Other target creatures you control have &quot;&quot;Sacrifice a creature: Exile target creature.&quot;&quot;","","2","2","","","","Green",""
+
+"Field","","1g","","Enchantment","Aura","none","Enchant creature
+Enchanted creature gets +2/+0 and has protection from black and from attacking it.","","","","","","","Green",""
+
+"Flybetwings","","4ggg","","Creature","Treefolk Warrior","none","Flying
+Flybetwings gets +1/+0 for each card in your hand.","","6","5","","","","Green",""
+
+"Ghyr Fdoather","","2ggg","","Creature","Beast","none","When Ghyr Fdoather enters the battlefield, return Ghyr Fdoather to its owner&#39;s hand.","","5","2","","","","Green",""
+
+"Ovyread Legation","","2g","","Instant","","none","Players can&#39;t exile its controller&#39;s control. If you do, shuffle your library.","","","","","","","Green",""
+
+"Pulponlot of Defeblock","","g","","Creature","Elf Warrior","none","Sacrifice a land: Destroy target enchantment.","","1","1","","","","Green",""
+
+"Rat Bird","","3g","","Creature","Zombie","none","When you set a scheme in motion, have flying.","","1","1","","","","Green",""
+
+"Second Falcon","","5gg","","Creature","Beast","none","At the beginning of your upkeep, if you control five or more permanents, look at the top four cards of your library, then put them back in any order.","","7","7","","","","Green",""
+
+"Sent World","","3gg","","Creature","Whenever Saproling","none","Flying
+When Sent World enters the battlefield the battlefield tapped, remove a -1/-1 counter on Sent World.","","X","5","","","","Green",""
+
+"Towered Totch","","1gg","","Enchantment","","none","Whenever you cast a green spell, remove a black spell from your graveyard to your hand.","","","","","","","Green",""
+
+"Well of Hogm","","3gg","","Creature","Elephant","none","Flying
+Flying
+Soulbond
+Haste
+Whenever Well of Hogm attacks, sacrifice X creatures for each other sorcery.
+Swampwalk
+Whenever Well of Hogm becomes tapped, you may cast it without paying its mana cost.","","4","4","","","","Green",""
+
+"Yecrimb-Adamadoing Pronsovitor","","g","","Sorcery","","none","Target player gains 5 life.","","","","","","","Green",""
+
+"Rooting Cyclops","","4ub","","Creature","Cyclops Illusion","none","Flying
+As long as Rooting Cyclops is in your graveyard, creatures you control get +2/+2. 
+{3}:  Until end of turn, Rooting Cyclops becomes a Plant Wall creature that&#39;s attacking you.","","4","4","","","","Multicolour",""
+
+"Heateror&#39;s Goblin","","4br","","Creature","Nampire","none","When Heateror&#39;s Goblin enters the battlefield, you may have Heateror&#39;s Goblin gains haste.
+{1}, {T}: Players shuffles his or her library in any order.","","2","2","","","","Multicolour",""
+
+"Tarkote of Nargalis","","2br","","Creature","Bird Warrior","none","Vigillance
+{G}: Tarkote of Nargalis gets +2/+2 until end of turn.","","3","3","","","","Multicolour",""
+
+"Hadrowsh","","1rg","","Creature","Elf Goblin","none","Green creatures you control get +1/+1.
+{r}: Hadrowsh gets +1/+0 until end of turn.","","2","2","","","","Multicolour",""
+
+"Exravan, Lost Angel","","4gw","Legendary","Creature","Human Artificer","none","{1}, Sacrifice a creature: Put a +1/+1 counter on target creature.
+Cycling {2}{G}
+When you cycle Exravan, Lost Angel, you may draw a card.","","5","2","","","","Multicolour",""
+
+"Hould Gapin, Mobit of Phing","","bg","","Instant","","none","Chose a color to your mana pool.","","","","","","","Multicolour",""
+
+"Pidods S of Varch","","5guu","","Creature","Zombie Kor","none","Whenever a player casts a spell, you may have that player draws a card.","","5","6","","","","Multicolour",""
+
+"Tardas Mersioner","","ggu","","Creature","Elf Druid","none","Flashback {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost. You may pay an additional {1} as you cast this spell: You may cast this spell for its shadow.)
+{3}: Bestroy target creature.","","2","1","","","","Multicolour",""
+
+"Carl","","rw","","Creature","Nampire","none","Carl can&#39;t be blocked by Carl spells counters. Each creature doesn&#39;t untap during your untap steps or abilities you control, then shuffle your library. If you do, untap it.
+{2}{w}{w}, {t}: Mutant 2 4/2 white Plesing creature can&#39;t be blocked except by creatures have shroud until end of turn. Return target permanent, you may reveal cards in your graveyard, then put a charge counter on Carl.","","*","*","","","","Multicolour",""
+
+"Spells of Hena","","3rww","","Creature","Human Soldier","none","Swith an artifacts, you may cast this card from your hand, hand, at the end of combat.","","1","1","","","","Multicolour",""
+
+"Natockvafnuti&#39;s Warriar","","2wub","","Creature","Human Bird","none","At the beginning of your upkeep, if Natockvafnuti&#39;s Warriar was kicked, choose a color. If return it to the battlefield, you may pay {2}{G} or {G} in the form of -1/-1 counters on target creature you control and the destroy this card&#39;s power.","","4","3","","","","Multicolour",""
+
+"Tark&#39;s Flowstork","","wuub","","Instant","","none","Cast Tark&#39;s Flowstork only as sorcery.","","","","","","","Multicolour",""
+
+"Wall a","","3gub","Legendary","Creature","Beast","none","Flying
+{b}, {t}: Regenerate Wall a.
+{t}: Add {g} or {b}{g} to your mana pool.","","6","5","","","","Multicolour",""
+
+"Nana&#39;s Swelet","","r{ur}r{w/u}wub","","Creature","Cycling Merfolk","none","When Nana&#39;s Swelet enters the battlefield. Whenever target creature you control dies, put it onto the battlefield, draw a card to their owner&#39;s hand at random.","","7","6","","","","Multicolour",""
+
+"Krroonsing Shawi","","{3}{r/g}","","Creature","Tod Warrior","none","Whenever you cast a spell or ability only during your upkeep, counter target spell, return Krroonsing Shawi this turn. Search your library, then discard a card. Activate this ability only if you win, each opponent exiles all damage that would be dealt to target creature or player.","","4","5","","","","Hybrid",""
+
+"Blessingmine","","2","","Artifact Creature","Myr","none","*Ravanation* - When Blessingmine enters the battlefield, destroy target creature an opponent controls.","","0","1","","","","Artifact",""
+
+"Corpse Power","","4","","Artifact","","none","If an instant or sorcery source would deal damage to you, prevent 2 of that damage.
+Whenever a creature you control is dealt damage, Corpse Power deals that much damage to that creature&#39;s controller.","","","","","","","Artifact",""
+
+"Enclaws of Rider","","3","","Artifact Creature","Horror","none","{T}, Sacrifice an artifact: Put two 1/1 green Saproling creature tokens onto the battlefield for each bird creature card in your graveyard.","","3","1","","","","Artifact",""
+
+"Mox Keyrune","","0","Legendary","Artifact","","none","Whenever a creature with flying attacks, you may sacrifice Mox Keyrune. If you do, put a creature card from your had onto the battlefield.","","","","","","","Artifact",""
+
+"Ronding Edrant","","4","","Artifact","","none","When an opponent loses 1 life, target creature gets -1/-1 until end of turn.","","","","","","","Artifact",""
+
+"Spirit of the Tree","","5","","Artifact","","none","Whenever you cast a spell that targets Spirit of the Tree, put a 6/0 green Shapeshifter creature token onto the battlefield. (They was kicked.)","","","","","","","Artifact",""
+
+"Stoneward Feed","","1","","Artifact","","none","Players can&#39;t gain life. 
+At the beginning of your upkeep, target opponent loses 1 life.","","","","","","","Artifact",""
+
+"Noir of the Mary","","","","Land","","none","{t}: Add {c} to your mana pool. Spend this mana only to cast Noir of the Mary.","","","","","","","Land",""
+
+"Prophetic Firespank","","","","Land","","none","Prophetic Firespank enters the battlefield tapped.
+When Prophetic Firespank enters the battlefield, draw a card.","","","","","","","Land",""
