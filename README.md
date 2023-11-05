@@ -36,7 +36,7 @@ Processing power is the number 1 restraint for this project, it was effectively 
 So the gpt2 models are only trained on 100 steps, when i got much better results after 300 or 1000 steps, this necessitated me to learn anvil and google collab storage to complete the project.
 With greater processing power and time, one could achieve much better models that were much better at fooling more advanced types of classifiers and the human eye.
 
-![Models](imagefiles\models-baseline.png)
+![Models](imagefiles/models-baseline.png)
 
 
 
